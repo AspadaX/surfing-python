@@ -142,7 +142,7 @@ checksum = "f279f15aab88e70034c433cf7e88de2d0a55f94ef4172efe94c9d5be690be830"
 
 [[package]]
 name = "surfing-python"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "pyo3",
  "surfing",
